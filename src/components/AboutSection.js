@@ -95,4 +95,4 @@ export default function AboutSection() {
       </div>
     </AboutSectionStyles>
   );
-}
+}f
