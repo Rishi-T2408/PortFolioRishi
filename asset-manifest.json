@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/my-app/static/js/main.f126aee1.chunk.js",
+    "main.js.map": "/my-app/static/js/main.f126aee1.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.fb424721.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.fb424721.js.map",
+    "static/css/2.08424aa4.chunk.css": "/my-app/static/css/2.08424aa4.chunk.css",
+    "static/js/2.f6813fa9.chunk.js": "/my-app/static/js/2.f6813fa9.chunk.js",
+    "static/js/2.f6813fa9.chunk.js.map": "/my-app/static/js/2.f6813fa9.chunk.js.map",
+    "static/js/3.c8512d6e.chunk.js": "/my-app/static/js/3.c8512d6e.chunk.js",
+    "static/js/3.c8512d6e.chunk.js.map": "/my-app/static/js/3.c8512d6e.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/2.08424aa4.chunk.css.map": "/my-app/static/css/2.08424aa4.chunk.css.map",
+    "static/js/2.f6813fa9.chunk.js.LICENSE.txt": "/my-app/static/js/2.f6813fa9.chunk.js.LICENSE.txt",
+    "static/media/A1.8ab2fd0a.png": "/my-app/static/media/A1.8ab2fd0a.png",
+    "static/media/A2.7e1b2e64.png": "/my-app/static/media/A2.7e1b2e64.png",
+    "static/media/A3.b79ec89a.png": "/my-app/static/media/A3.b79ec89a.png",
+    "static/media/A5.b73517e2.jpg": "/my-app/static/media/A5.b73517e2.jpg",
+    "static/media/A6.fbddafc1.png": "/my-app/static/media/A6.fbddafc1.png",
+    "static/media/Desktop - 1.75765e81.png": "/my-app/static/media/Desktop - 1.75765e81.png",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/my-app/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/my-app/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/Myimg.16b4519b.jpg": "/my-app/static/media/Myimg.16b4519b.jpg",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/my-app/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/ab.3ec1fd12.png": "/my-app/static/media/ab.3ec1fd12.png",
+    "static/media/predictions-1.2d0e9335.jpg": "/my-app/static/media/predictions-1.2d0e9335.jpg",
+    "static/media/projectImg.771236e1.png": "/my-app/static/media/projectImg.771236e1.png",
+    "static/media/scroll-down-arrow.8ad25c53.svg": "/my-app/static/media/scroll-down-arrow.8ad25c53.svg",
+    "static/media/social-media-arrow.d22f72e1.svg": "/my-app/static/media/social-media-arrow.d22f72e1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb424721.js",
+    "static/css/2.08424aa4.chunk.css",
+    "static/js/2.f6813fa9.chunk.js",
+    "static/js/main.f126aee1.chunk.js"
+  ]
+}
